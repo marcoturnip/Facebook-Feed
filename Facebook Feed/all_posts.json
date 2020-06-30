@@ -1,0 +1,40 @@
+{
+    "posts": [
+        {
+            "name": "Mark Zuckerberg",
+            "localtion": {
+                "city": "San Francisco",
+                "state": "CA"
+        },
+            "profileImageName": "zuckprofile",
+            "statusText": "Meanwhile, the dog have a good hair style. Awesome!",
+            "statusImageName": "zuckdog",
+            "numLikes" :400,
+            "numComments": 233
+        },
+        {
+            "name": "Steve Jobs",
+            "localtion": {
+                "city": "Cupertino",
+                "state": "CA"
+        },
+            "profileImageName": "stevejobs_profile",
+            "statusText": "Design is the fundamental soul of a human-made creation that ends up expressing itself in successive outer layers of the product or service. Design is not just what it looks like and how it feels. Design is how it works. You can't just ask customers what they want and then try to give that to them.",
+            "statusImageName": = "stevejobs_status",
+            "numLikes": 788,
+            "numComments" : 982
+        },
+        {
+            "name": "Bill Gates",
+            "localtion": {
+                "city": "New York",
+                "state": "NY"
+        },
+            "profileImageName": "billgates_profile",
+            "statusText": "Success is a lousy teacher. It seduces smart people into thinking they can’t lose.\nIf you are born poor it’s not your mistake, but if you die poor it’s your mistake.",
+            "statusImageName": = "billgates_status",
+            "numLikes": 708,
+            "numComments": 999
+        }
+    ]
+}

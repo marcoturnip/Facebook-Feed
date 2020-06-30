@@ -1,0 +1,10 @@
+{
+  "post": {
+        "name": "Mark Zuckerberg",
+        "profileImageName": "zuckprofile",
+        "statusText": "Meanwhile, the dog have a good hair style. Awesome!",
+        "statusImageName": "zuckdog",
+        "numLikes": 400,
+        "numComments": 233
+    }
+}
